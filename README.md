@@ -130,9 +130,3 @@ pip install -r requirements.txt
 - Confusion Matrix Interpretation
 
 ---
-
-
-
-
-## 📁 Project Structure
-
